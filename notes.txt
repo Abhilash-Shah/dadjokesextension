@@ -1,0 +1,13 @@
+make a file manifest.json
+then go to chrome extension ON Deeveloper Mode
+then load unpacked click
+open the file where you are placed the file
+click okay.
+extension ready
+
+Publishing the extension on chrome store
+1.create your items zip file
+2.create a developer account
+3.upload your item
+4.Add assets for your listing
+5.Submit your item for publishing
